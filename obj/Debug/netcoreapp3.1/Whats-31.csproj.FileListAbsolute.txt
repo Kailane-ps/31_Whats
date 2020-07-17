@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\bin\Debug\netcoreapp3.1\Whats-31.exe
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\bin\Debug\netcoreapp3.1\Whats-31.deps.json
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\bin\Debug\netcoreapp3.1\Whats-31.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\bin\Debug\netcoreapp3.1\Whats-31.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\bin\Debug\netcoreapp3.1\Whats-31.dll
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\bin\Debug\netcoreapp3.1\Whats-31.pdb
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\obj\Debug\netcoreapp3.1\Whats-31.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\obj\Debug\netcoreapp3.1\Whats-31.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\obj\Debug\netcoreapp3.1\Whats-31.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\obj\Debug\netcoreapp3.1\Whats-31.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\obj\Debug\netcoreapp3.1\Whats-31.dll
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\obj\Debug\netcoreapp3.1\Whats-31.pdb
+C:\Users\Kailane\Desktop\SENAI K\31_Whats\obj\Debug\netcoreapp3.1\Whats-31.genruntimeconfig.cache
